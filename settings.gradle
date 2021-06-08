@@ -1,0 +1,7 @@
+include ':common:util'
+include ':common:ui'
+include ':feature:input'
+include ':feature:splash'
+include ':feature:home'
+include ':app'
+rootProject.name = "MultiModuleActivity"
